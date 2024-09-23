@@ -70,4 +70,10 @@ I am always eager to stay updated on emerging technologies and best practices in
 I’m currently exploring **AI/ML** frameworks and enhancing my skills in **DevOps** for better CI/CD practices.
 
 Feel free to reach out or check out my repositories for the projects I've been working on!
+## Contact Me
+
+Feel free to reach out if you want to discuss any potential opportunities, collaborations, or just chat about software development and technology!
+
+- 📧 Email: [touch.u.bc1000@example.com](touch.u.bc1000@example.com)
+
 
