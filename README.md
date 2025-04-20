@@ -32,6 +32,7 @@ Here’s a breakdown of my technical expertise:
   - PostgreSQL
   - MongoDB
   - SQLite
+  - Oracle
 
 - **Other**:
   - Git & GitHub
